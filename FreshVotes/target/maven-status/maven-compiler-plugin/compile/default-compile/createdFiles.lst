@@ -1,0 +1,10 @@
+com/example/FreshVotes/domain/Comment.class
+com/example/FreshVotes/DashboardController.class
+com/example/FreshVotes/security/WebSecurityConfig.class
+com/example/FreshVotes/domain/VoteID.class
+com/example/FreshVotes/domain/User.class
+com/example/FreshVotes/ServletInitializer.class
+com/example/FreshVotes/FreshVotesApplication.class
+com/example/FreshVotes/domain/Feature.class
+com/example/FreshVotes/domain/CommentID.class
+com/example/FreshVotes/domain/Vote.class
